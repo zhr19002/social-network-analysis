@@ -1,11 +1,10 @@
-### Exploration of Human Mobility Under Disaster Through A Network Approach
+### Network Modeling Application in Human Mobility Exploration Under A Disaster
 > 'tract_POI_network.ipynb'
-- Develop networks that connect census tracts and POI categories based on Points-of-interest (POI) visit datasets (from SafeGraph Inc.) through Python Numpy, Pandas, and Networkx packages.
-- Visualize networks and results through Python and identify vulnerable residents and significant POIs under a disaster based on network centrality measures.
+- Apply Python (Numpy, Pandas, and Networkx packages) to develop and analyze networks that connect census tracts and POI categories based on human mobility datasets (from SafeGraph Inc.)
+- Apply Python (Matplotlib and Networkx packages) to visualize networks and highlight vulnerable parts in networks under a disaster
 <br/>
 
-### Role Identification in Collaborative Learning Through Social Network Analysis
+### Network Modeling Application in Role Identification in A Collaborative Learning Environment
 > 'collaborative_learning_network.ipynb' & 'agent_performance.ipynb'
-- Collect and process data based on students’ messages on the discussion board in the “Principles of Construction” course.
-- Develop and analyze social networks based on the processed dataset through ORA-LITE software (developed by CASOS at Carnegie Mellon)
-- Visualize social networks through ORA-LITE, and identify students’ participatory roles (e.g., leader, animator, active, peripheral) based on network centrality measures.
+- Apply Python (Matplotlib and Networkx packages) to develop, analyze, and visualize networks based on processed datasets
+- Develop an algorithm to identify students’ participatory roles based on centrality measures, and apply Python (Pandas package) to quantify students’ overall performance
